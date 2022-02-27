@@ -41,3 +41,7 @@ Reference Reading Materials:
 1. https://www.youtube.com/watch?v=aKMLgFVxZYk&ab_channel=HusseinNasser
 2. https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts
 3. https://www.haproxy.com/blog/haproxy-configuration-basics-load-balance-your-servers/
+
+TODO:
+1. Run this app inside docker and direct HAPROXY to use docker port instead of app port
+2. Add more dynamic Content
