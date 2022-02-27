@@ -45,3 +45,4 @@ Reference Reading Materials:
 TODO:
 1. Run this app inside docker and direct HAPROXY to use docker port instead of app port
 2. Add more dynamic Content
+3. Test with nginx (which apprently is easier to configure)
