@@ -35,3 +35,9 @@ T5. haproxy -f http.cfg
 W1. http://localhost:9999/api1
 W2. http://localhost:9999/api2
 ```
+
+
+Reference Reading Materials:
+1. https://www.youtube.com/watch?v=aKMLgFVxZYk&ab_channel=HusseinNasser
+2. https://www.digitalocean.com/community/tutorials/an-introduction-to-haproxy-and-load-balancing-concepts
+3. https://www.haproxy.com/blog/haproxy-configuration-basics-load-balance-your-servers/
