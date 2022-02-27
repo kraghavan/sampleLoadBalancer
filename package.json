@@ -5,7 +5,11 @@
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "start_tcp": "node server_tcp_test.js",
+    "start_http": "node server_http_test.js"
+  },
+  "devDependencies": {
+    "express": "^4.17.3"
   },
   "repository": {
     "type": "git",
