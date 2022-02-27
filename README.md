@@ -43,6 +43,5 @@ Reference Reading Materials:
 3. https://www.haproxy.com/blog/haproxy-configuration-basics-load-balance-your-servers/
 
 TODO:
-1. Run this app inside docker and direct HAPROXY to use docker port instead of app port
-2. Add more dynamic Content
-3. Test with nginx (which apprently is easier to configure)
+1. Run this app inside docker and direct HAPROXY to use docker port instead.
+2. Test with nginx (which apparently is easier to configure)
