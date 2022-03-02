@@ -18,7 +18,7 @@ T3. haproxy -f tcp.cfg
 
 3. Open chrome browser and type this link
 ```
-http://localhost:8888/api1
+W1. http://localhost:8888/api1
 ```
 
 2. To demo the HTTP layer 4 load balancing by HAproxy (which will use http.cfg file). Open 5 terminal windows.
